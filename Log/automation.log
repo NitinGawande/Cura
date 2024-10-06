@@ -1,0 +1,110 @@
+2024-10-02 14:00:39 - INFO - ---------test_001_login---------------
+2024-10-02 14:00:39 - INFO - ---------verifing homepage title ---------------
+2024-10-02 14:33:55 - INFO - ---------test_001_login---------------
+2024-10-02 14:33:55 - INFO - ---------verifing homepage title ---------------
+2024-10-02 14:34:06 - INFO - Title is correct
+2024-10-02 14:37:04 - INFO - ---------test_001_login---------------
+2024-10-02 14:37:04 - INFO - ---------verifing homepage title ---------------
+2024-10-02 14:37:14 - ERROR - this is error
+2024-10-02 14:37:16 - INFO - Test_case_002
+2024-10-02 14:37:24 - INFO - Site is opened
+2024-10-02 14:37:24 - INFO - It isnot woring fine oe might be some title issue
+2024-10-02 14:40:08 - INFO - ---------test_001_login---------------
+2024-10-02 14:40:08 - INFO - ---------verifing homepage title ---------------
+2024-10-02 14:40:19 - ERROR - this is error
+2024-10-02 14:40:21 - INFO - Test_case_002
+2024-10-02 14:40:29 - INFO - Site is opened
+2024-10-02 14:40:29 - INFO - It isnot woring fine oe might be some title issue
+2024-10-02 14:41:20 - INFO - ---------test_001_login---------------
+2024-10-02 14:41:20 - INFO - ---------verifing homepage title ---------------
+2024-10-02 14:41:30 - INFO - Test_case_002
+2024-10-02 14:43:53 - INFO - ---------test_001_login---------------
+2024-10-02 14:43:53 - INFO - ---------verifing homepage title ---------------
+2024-10-02 14:44:02 - ERROR - sitle title is wrong
+2024-10-02 14:44:04 - INFO - Test_case_002
+2024-10-02 14:44:13 - INFO - Site is opened
+2024-10-02 14:44:13 - INFO - Everything is fine
+2024-10-02 14:45:27 - INFO - ---------test_001_login---------------
+2024-10-02 14:45:27 - INFO - ---------verifing homepage title ---------------
+2024-10-02 14:45:34 - ERROR - sitle title is wrong
+2024-10-02 14:45:36 - INFO - Test_case_002
+2024-10-02 14:45:44 - INFO - Site is opened
+2024-10-02 14:45:44 - INFO - Everything is fine
+2024-10-02 14:46:21 - INFO - ---------test_001_login---------------
+2024-10-02 14:46:21 - INFO - ---------verifing homepage title ---------------
+2024-10-02 14:46:27 - INFO - Test case is passed
+2024-10-02 14:46:29 - INFO - Test_case_002
+2024-10-02 14:46:37 - INFO - Site is opened
+2024-10-02 14:46:37 - INFO - Everything is fine
+2024-10-02 14:50:58 - INFO - ---------test_001_login---------------
+2024-10-02 14:50:58 - INFO - ---------verifing homepage title ---------------
+2024-10-02 14:51:02 - INFO - Test_case_002
+2024-10-02 14:51:13 - INFO - ---------test_001_login---------------
+2024-10-02 14:51:13 - INFO - ---------verifing homepage title ---------------
+2024-10-02 14:51:22 - INFO - Test_case_002
+2024-10-02 14:51:31 - INFO - Site is opened
+2024-10-02 14:52:47 - INFO - ---------test_001_login---------------
+2024-10-02 14:52:47 - INFO - ---------verifing homepage title ---------------
+2024-10-02 14:52:55 - INFO - Test_case_002
+2024-10-02 14:53:02 - INFO - Site is opened
+2024-10-02 14:55:05 - INFO - ---------test_001_login---------------
+2024-10-02 14:55:05 - INFO - ---------verifing homepage title ---------------
+2024-10-02 14:59:11 - INFO - ---------test_001_login---------------
+2024-10-02 14:59:11 - INFO - ---------verifing homepage title ---------------
+2024-10-02 14:59:18 - INFO - Test case is passed
+2024-10-02 15:00:18 - INFO - ---------test_001_login---------------
+2024-10-02 15:00:18 - INFO - ---------verifing homepage title ---------------
+2024-10-02 15:02:47 - INFO - ---------test_001_login---------------
+2024-10-02 15:02:47 - INFO - ---------verifing homepage title ---------------
+2024-10-02 15:03:44 - INFO - ---------test_001_login---------------
+2024-10-02 15:03:44 - INFO - ---------verifing homepage title ---------------
+2024-10-02 15:04:55 - INFO - ---------test_001_login---------------
+2024-10-02 15:04:55 - INFO - ---------verifing homepage title ---------------
+2024-10-02 15:05:57 - INFO - ---------test_001_login---------------
+2024-10-02 15:05:57 - INFO - ---------verifing homepage title ---------------
+2024-10-02 15:06:25 - INFO - ---------test_001_login---------------
+2024-10-02 15:06:25 - INFO - ---------verifing homepage title ---------------
+2024-10-02 15:06:33 - INFO - Test case is passed
+2024-10-02 15:06:49 - INFO - ---------test_001_login---------------
+2024-10-02 15:06:49 - INFO - ---------verifing homepage title ---------------
+2024-10-02 15:14:58 - INFO - ---------test_001_login---------------
+2024-10-02 15:14:58 - INFO - ---------verifing homepage title ---------------
+2024-10-02 15:15:10 - INFO - Test case is passed
+2024-10-02 15:17:46 - INFO - ---------test_001_login---------------
+2024-10-02 15:17:46 - INFO - ---------verifing homepage title ---------------
+2024-10-02 15:17:56 - INFO - Test case is passed
+2024-10-02 15:17:58 - INFO - Test_case_002
+2024-10-02 15:18:06 - INFO - Site is opened
+2024-10-02 15:20:28 - INFO - ---------test_001_login---------------
+2024-10-02 15:20:28 - INFO - ---------verifing homepage title ---------------
+2024-10-02 15:20:35 - INFO - Test case is passed
+2024-10-02 15:20:37 - INFO - Test_case_002
+2024-10-02 15:20:45 - INFO - Site is opened
+2024-10-02 15:20:46 - INFO - Everything is fine
+2024-10-02 15:21:15 - INFO - Test_case_002
+2024-10-02 15:21:23 - INFO - Site is opened
+2024-10-02 15:21:24 - ERROR - problem in test case2
+2024-10-02 15:23:18 - INFO - ---------test_001_login---------------
+2024-10-02 15:23:18 - INFO - ---------verifing homepage title ---------------
+2024-10-02 15:23:24 - INFO - Test case is passed
+2024-10-02 15:23:27 - INFO - Test_case_002
+2024-10-02 15:23:38 - INFO - Site is opened
+2024-10-02 15:23:38 - INFO - Everything is fine
+2024-10-02 15:29:39 - INFO - Test_case_002
+2024-10-02 15:29:40 - INFO - ---------test_001_login---------------
+2024-10-02 15:29:40 - INFO - ---------verifing homepage title ---------------
+2024-10-02 15:29:50 - INFO - Test case is passed
+2024-10-02 15:29:51 - INFO - Site is opened
+2024-10-02 15:29:51 - INFO - Everything is fine
+2024-10-04 20:09:58 - INFO - ---------test_001_login---------------
+2024-10-04 20:09:58 - INFO - ---------verifing homepage title ---------------
+2024-10-04 20:10:05 - INFO - Test case is passed
+2024-10-04 20:10:07 - INFO - Test_case_002
+2024-10-04 20:10:14 - INFO - Site is opened
+2024-10-04 20:10:14 - INFO - Everything is fine
+2024-10-04 20:18:50 - INFO - ---------test_001_login---------------
+2024-10-04 20:18:50 - INFO - ---------verifing homepage title ---------------
+2024-10-04 20:18:57 - INFO - Test case is passed
+2024-10-04 20:18:59 - INFO - Test_case_002
+2024-10-04 20:19:07 - INFO - Site is opened
+2024-10-04 20:19:07 - INFO - Everything is fine
